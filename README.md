@@ -12,3 +12,8 @@ How to use:-
 4)enter node index.js
 5)follow prompts 
 6)read me file will be generated. 
+
+
+![readme1](https://user-images.githubusercontent.com/124997994/233892523-b0d7721c-b119-40d4-8551-9280f175933c.jpg)
+![readme2](https://user-images.githubusercontent.com/124997994/233892525-5796a0cf-a47b-41ef-987a-041756e82621.jpg)
+![readme3](https://user-images.githubusercontent.com/124997994/233892517-76fea1df-f3ba-4551-b0ff-704dcad99dd0.jpg)
